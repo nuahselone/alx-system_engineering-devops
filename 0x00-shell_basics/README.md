@@ -1,1 +1,1 @@
-create a directory in the /tmp/ directory
+Creates a script that creates a directory in the /tmp/ directory
