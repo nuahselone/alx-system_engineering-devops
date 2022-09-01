@@ -1,1 +1,1 @@
-Display current directory content
+create a directory in the /tmp/ directory
